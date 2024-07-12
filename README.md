@@ -1,7 +1,3 @@
-<h2 align="left">Olá 👋! Meu nome é Claudemiro</h2>
-
-###
-
 <p align="left">Tecnologias</p>
 
 ###
